@@ -9,6 +9,7 @@ function App() {
       <Header />
       <MovieList />
       {/* we will change this  */}
+      {/* eventually*/}
       <Footer />
     </div>
   );
