@@ -8,6 +8,7 @@ function App() {
     <div className="App">
       <Header />
       <MovieList />
+      {/* {We will change this} */}
       <Footer />
     </div>
   );
